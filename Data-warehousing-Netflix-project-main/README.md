@@ -21,7 +21,7 @@ The datasets we found from Kaggle.com allow us to analyze and study the relation
 
 ### ETL: <br/>
 ![image](https://user-images.githubusercontent.com/27581761/115129599-7c67b380-9fb5-11eb-90ea-bbc4f069d5d5.png)
-https://github.com/wt051453/ETL-in-data-warehousing-project/ETL <br/>
+https://github.com/faizsaify/data-warehouse/tree/main/Data-warehousing-Netflix-project-main/ETL <br/>
 
 ### Final Schema: <br/>
 ![image](https://user-images.githubusercontent.com/27581761/115129748-dd43bb80-9fb6-11eb-80a4-631949edc47a.png)
