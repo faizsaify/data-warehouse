@@ -9,12 +9,12 @@ The system helps us to find out what the most popular genre of movies/shows are 
 ### Dimensional Model: <br/>
 ![image](https://user-images.githubusercontent.com/27581761/115129594-6b1ea700-9fb5-11eb-958a-c92318085de0.png)
 
-https://github.com/wt051453/ETL-in-data-warehousing-project/blob/main/dimensional%20model.pdf
+https://github.com/faizsaify/data-warehouse/blob/main/Data-warehousing-Netflix-project-main/dimensional%20model.pdf
 
 ### Architecture Diagram: <br/>
 ![image](https://user-images.githubusercontent.com/27581761/115129595-71ad1e80-9fb5-11eb-8e70-2616bc22088c.png)
 
-https://github.com/wt051453/ETL-in-data-warehousing-project/blob/main/Architeture%20diagram.pdf
+https://github.com/faizsaify/data-warehouse/blob/main/Data-warehousing-Netflix-project-main/Architeture%20diagram.pdf
 
 ### Detailed Design: <br/>
 The datasets we found from Kaggle.com allow us to analyze and study the relationships between Netflix’s movies and shows selection to IMDB scores and their stock prices. For ETL steps, we chose to use python because it is one of the popular general-purpose programming languages that is capable of performing the tasks and the team is familiar with. We chose to run our data warehouse on MySQL server because it is a popular relational database management system that provides secure and fast data storage, fast query speed and the team is also familiar with it. Finally, we chose Tableau to create visualizations because it is a powerful visualization tool that offers ease of use and many visualization possibilities. Any future members to the team may already have experiences using these technologies or can easily pick up how to use them because there are many instructions or documentations available for these technologies which will significantly reduce the training time and cost.
